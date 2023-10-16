@@ -1,0 +1,35 @@
+{
+"theme":"Grace's Theme",
+"name":"Grace's Week",
+"max-tasks":5,
+"max-events":5,
+"days":[{"name":"SUNDAY",
+"tasks":[{
+      "task-name": "Task",
+      "description": "description",
+      "completion-status": "false"}],
+"events": []
+    },{"name":"MONDAY",
+"tasks":[],
+"events": []
+    },{"name":"TUESDAY",
+"tasks":[],
+"events": []
+    },{"name":"WEDNESDAY",
+"tasks":[],
+"events": [{
+      "event-name": "Event",
+      "description": "",
+      "start-time": "12:00",
+      "duration": 20
+}]
+    },{"name":"THURSDAY",
+"tasks":[],
+"events": []
+    },{"name":"FRIDAY",
+"tasks":[],
+"events": []
+    },{"name":"SATURDAY",
+"tasks":[],
+"events": []
+    }]}

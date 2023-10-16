@@ -1,0 +1,75 @@
+{
+"theme":"Grace's Theme",
+"name":"Grace's Week",
+"max-tasks":5,
+"max-events":5,
+"days":[{"name":"SUNDAY",
+"tasks":[{
+      "task-name": "Task",
+      "description": "description",
+      "completion-status": "false"}],
+"events": []
+    },{"name":"MONDAY",
+"tasks":[],
+"events": [{
+      "event-name": "event",
+      "description": "",
+      "start-time": "01:10",
+      "duration": 10
+},{
+      "event-name": "sunuo",
+      "description": "",
+      "start-time": "01:19",
+      "duration": 40
+}]
+    },{"name":"TUESDAY",
+"tasks":[],
+"events": []
+    },{"name":"WEDNESDAY",
+"tasks":[],
+"events": [{
+      "event-name": "Event",
+      "description": "",
+      "start-time": "12:00",
+      "duration": 20
+}]
+    },{"name":"THURSDAY",
+"tasks":[],
+"events": []
+    },{"name":"FRIDAY",
+"tasks":[],
+"events": []
+    },{"name":"SATURDAY",
+"tasks":[],
+"events": []
+    }]}
+{
+"theme":"default",
+"name":"My Week",
+"max-tasks":5,
+"max-events":5,
+"days":[{"name":"SUNDAY",
+"tasks":[{
+      "task-name": "ds",
+      "description": "sss",
+      "completion-status": "false"}],
+"events": []
+    },{"name":"MONDAY",
+"tasks":[],
+"events": []
+    },{"name":"TUESDAY",
+"tasks":[],
+"events": []
+    },{"name":"WEDNESDAY",
+"tasks":[],
+"events": []
+    },{"name":"THURSDAY",
+"tasks":[],
+"events": []
+    },{"name":"FRIDAY",
+"tasks":[],
+"events": []
+    },{"name":"SATURDAY",
+"tasks":[],
+"events": []
+    }]}
